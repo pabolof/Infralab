@@ -1,0 +1,15 @@
+INFRALAB | EDICAO DIDATICA EM PORTUGUES
+
+1. Extraia todo o ZIP para uma pasta.
+2. Abra index.html no navegador.
+3. Cada capitulo possui uma pagina HTML propria.
+4. Nao e necessario instalar programas ou iniciar servidor.
+5. O PDF original completo esta em original.pdf.
+
+ESCOPO: adaptacao didatica condensada, nao traducao integral. Figuras, tabelas e atividades completas permanecem em ingles no PDF. O capitulo 10 esta vazio na fonte.
+
+AUTORIA: Donald Coffelt e Chris Hendrickson, Fundamentals of Infrastructure Management, 2017. DOI 10.1184/R1/5334379.v1. Adaptacao com Microsoft Copilot em 11/11/2026.
+
+LICENCA: CC BY-SA 4.0 para esta adaptacao e complementos, ressalvados materiais de terceiros e excecoes do original. Consulte Autoria e licenca no site e Detailed Licensing no PDF.
+
+DADOS: anotacoes e progresso ficam no navegador. Use Exportar caderno para guardar uma copia.
